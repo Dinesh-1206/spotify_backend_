@@ -1,4 +1,4 @@
-# Spotify Backend API
+# Music steaming Backend API
 
 A Spotify-inspired backend application built with Node.js, Express.js, MongoDB, and JWT Authentication. This project implements secure role-based authentication, music management, album creation, and protected API routes following modern backend development practices.
 
